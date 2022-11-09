@@ -1,0 +1,5 @@
+# Updated 11/9/22 10:45 PM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+tester|2022-06-14 12:53:05 +0000|(Unknown)|Forever|Banned by an operator.
+berohrine|2022-06-14 13:24:06 +0000|(Unknown)|Forever|Banned by an operator.
